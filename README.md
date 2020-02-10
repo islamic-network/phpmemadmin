@@ -14,11 +14,11 @@ Head over to http://localhost:8080, enter the username and password you passed a
 
 ## Build it (and then run it):
 ```
-docker build . -t vesica/memadmin  
+docker build . -t islamicnetwork/memadmin  
 ```
 
 ## Publish Image
 
 This image is already built by Docker Hub when the master branch of this repository is updated.
-It is published at vesica/memadmin (https://hub.docker.com/r/vesica/memadmin/).
+It is published at vesica/memadmin (https://hub.docker.com/r/islamicnetwork/phpmemadmin/).
 
